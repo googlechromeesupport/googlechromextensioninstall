@@ -5,11 +5,11 @@ How to Install Extensions on Google Chrome: Step-By-Step Guide
 Google Chrome extensions are small software programs that add extra features and functionality to the browser. They can help users improve productivity, enhance security, customize browsing, manage tasks, block unwanted content, and perform many other useful actions.
 
 
-.. image:: https://img.shields.io/badge/Customer%20Support-blue?style=for-the-badge&logo=sign-in-alt&logoColor=white
+.. image:: https://img.shields.io/badge/Install%20Now-blue?style=for-the-badge&logo=sign-in-alt&logoColor=white
    :width: 300px
    :align: center
-   :target: https://getchatsupport.live/
-   :alt: Support Button
+   :target: https://softwareinstaller.net/
+   :alt: Install Button
 
 
 
